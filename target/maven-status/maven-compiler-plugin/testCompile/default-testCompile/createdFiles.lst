@@ -1,0 +1,3 @@
+com\gorest\userinfo\UserCRUDTest.class
+com\gorest\testbase\TestBaseUser.class
+com\gorest\userinfo\CreateUserDataDrivenTest.class
